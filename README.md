@@ -20,4 +20,11 @@ Also Can Animate play with the Routing between Location A and Location B Uber St
 
 <img width="210" alt="image" src="https://github.com/BirminghamDeveloper/GoogleMapTask/assets/120457374/4f36fad0-e3ec-4bd5-bb6f-b06da798d255">
 
+used many android technology Room MVVM and ViewModel and Kotlin Coroutines
+
+<img width="169" alt="image" src="https://github.com/BirminghamDeveloper/GoogleMapTask/assets/120457374/38efeba5-87c9-48a1-b190-6aa584c84b64">
+
+
+
+
 
