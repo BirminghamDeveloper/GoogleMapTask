@@ -16,7 +16,7 @@ and Save the Both Location in Database then
 
 then
 
-can Animate play with the Router between Location A and Location B 
+Also Can Animate play with the Routing between Location A and Location B Uber Style in RealTime
 
 <img width="210" alt="image" src="https://github.com/BirminghamDeveloper/GoogleMapTask/assets/120457374/4f36fad0-e3ec-4bd5-bb6f-b06da798d255">
 
