@@ -18,7 +18,7 @@ import com.example.taskone.model.SavedLocation
 import com.google.android.gms.maps.*
 import com.google.android.gms.maps.model.*
 
-
+private const val TAG = "CreateRouteActivity"
 class CreateRouteActivity : AppCompatActivity(), OnMapReadyCallback, View.OnTouchListener {
 
     private var supportMapFragment: SupportMapFragment? = null
