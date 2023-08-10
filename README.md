@@ -10,9 +10,7 @@ when user start to create the location A and B
 
 <img width="203" alt="image" src="https://github.com/BirminghamDeveloper/GoogleMapTask/assets/120457374/3faa8d34-c92b-4ee4-a5b8-ebb068d2113f">
 
-and Save it
-
-then
+and Save the Both Location in Database then
 
 <img width="211" alt="image" src="https://github.com/BirminghamDeveloper/GoogleMapTask/assets/120457374/4b19b7b0-1f68-461f-95ca-675dc6ce6f42">
 
